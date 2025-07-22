@@ -60,5 +60,4 @@ The dataset contains fictional sales data from a Superstore, including:
 
 ---
 
-**Ekanshi Saxena** 
 [GitHub](https://github.com/its-ekanshi) | [LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)
